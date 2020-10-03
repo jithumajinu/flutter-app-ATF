@@ -18,7 +18,8 @@ in my installation path is  /Users/xyzzz/Documents/Dev-Application/flutter/bin
  
  then  :wq for save and exit;
  
- Step 4 − $ which flutter
+ Step 4 − $ which flutter  or which flutter dart
+ 
            /Users/xyzzz/Documents/Dev-Application/flutter/bin/flutter
            
  Step 5 - flutter doctor
@@ -42,4 +43,9 @@ Doctor summary (to see all details, run flutter doctor -v):
 ! Doctor found issues in 2 categories.
 
 -----------------------------------------
+Set up the iOS simulator
+$open -a Simulator
+
+https://flutter.dev/docs/get-started/install/macos#update-your-path
+
   
