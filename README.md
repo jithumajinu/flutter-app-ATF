@@ -52,4 +52,6 @@ Tutorial
 
 https://www.tutorialspoint.com/flutter/flutter_creating_simple_application_in_android_studio.htm
 
+The core concept of the Flutter framework is In Flutter, Everything is a widget. Widgets are basically user interface components used to create the user interface of the application.
+
   
