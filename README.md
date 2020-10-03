@@ -21,6 +21,7 @@ in my installation path is  /Users/xyzzz/Documents/Dev-Application/flutter/bin
  Step 4 − $ which flutter
            /Users/xyzzz/Documents/Dev-Application/flutter/bin/flutter
            
-           
-           
+ Step 5 - flutter doctor
  
+  install what ever recomented by flutter doctor.
+  
